@@ -1,0 +1,97 @@
+Which of the following is NOT a feature of Object-Oriented Programming?
+A) Encapsulation
+B) Inheritance
+C) Polymorphism
+D) Preprocessing
+
+✅ Answer: D) Preprocessing
+
+2. (Software Engineering - SDLC)
+
+In the Waterfall Model of SDLC, testing is performed:
+A) After coding is complete
+B) Alongside coding
+C) At every phase
+D) Before coding starts
+
+✅ Answer: A) After coding is complete
+
+3. (Flow Chart & DFD)
+
+Which of the following represents data storage in a Data Flow Diagram (DFD)?
+A) Circle
+B) Arrow
+C) Parallel lines
+D) Rectangle
+
+✅ Answer: C) Parallel lines
+
+4. (Android OS - Basics)
+
+Which layer of the Android Architecture provides libraries like SQLite, WebKit, and SSL?
+A) Linux Kernel
+B) Libraries Layer
+C) Application Framework
+D) Applications Layer
+
+✅ Answer: B) Libraries Layer
+
+5. (Android Development - Activities)
+
+Which method is called when an Activity becomes visible but not yet interactive?
+A) onCreate()
+B) onStart()
+C) onResume()
+D) onPause()
+
+✅ Answer: B) onStart()
+
+6. (Fragments & UI)
+
+In Android, which class is used to implement a tabbed UI with swipe navigation?
+A) RecyclerView
+B) ViewPager
+C) ListView
+D) Spinner
+
+✅ Answer: B) ViewPager
+
+7. (Database & Storage)
+
+Which method is used to store key-value pairs in SharedPreferences?
+A) putData()
+B) addValue()
+C) putString()
+D) insert()
+
+✅ Answer: C) putString()
+
+8. (Web Services & JSON)
+
+Which Android library is widely used for network calls and parsing JSON in modern apps?
+A) Volley
+B) Retrofit
+C) OkHttp
+D) Picasso
+
+✅ Answer: B) Retrofit
+
+9. (Advanced Android - Google Maps)
+
+Which permission must be declared in AndroidManifest.xml to access device location?
+A) android.permission.READ_CONTACTS
+B) android.permission.ACCESS_FINE_LOCATION
+C) android.permission.READ_PHONE_STATE
+D) android.permission.INTERNET
+
+✅ Answer: B) android.permission.ACCESS_FINE_LOCATION
+
+10. (Location Services)
+
+Which Android class is primarily used to get the device’s last known location?
+A) SensorManager
+B) LocationManager
+C) GeoCoder
+D) LocationProvider
+
+✅ Answer: B) LocationManager
