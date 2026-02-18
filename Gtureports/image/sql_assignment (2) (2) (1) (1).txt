@@ -1,0 +1,46 @@
+Project Title: Student Database Management System
+
+Create a database to store and manage information about students, their courses, and grades.
+
+Tables to Create
+1:Students
+
+student_id (Primary Key)
+name
+age
+gender
+department
+
+
+2:Courses
+
+course_id (Primary Key)
+
+course_name
+
+instructor
+
+3:Enrollments
+
+enrollment_id (Primary Key)
+
+student_id (Foreign Key)
+
+course_id (Foreign Key)
+
+grade
+
+
+
+1:Create the tables using CREATE TABLE.
+2:Insert sample data into the tables using INSERT INTO.
+
+
+
+3:Perform Queries like:
+Show all students.
+List students in a particular department.
+Find which courses a student is enrolled in.
+Show grades of a student.
+List students who scored above 80 in any course.
+
